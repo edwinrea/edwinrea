@@ -1,3 +1,6 @@
 [submodule "addons/docker"]
 	path = addons/docker
 	url = https://github.com/edwinrea/imagen_docker
+[submodule "addons/cv"]
+	path = addons/cv
+	url = https://github.com/edwinrea/cv
