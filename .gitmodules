@@ -4,3 +4,6 @@
 [submodule "addons/cv"]
 	path = addons/cv
 	url = https://github.com/edwinrea/cv
+[submodule "addons/prueba_actions"]
+	path = addons/prueba_actions
+	url = https://github.com/edwinrea/prueba_actions
